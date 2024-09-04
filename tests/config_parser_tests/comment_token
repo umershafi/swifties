@@ -1,0 +1,4 @@
+server {
+    port  8080; \n
+    listen 80; # test comment
+}
